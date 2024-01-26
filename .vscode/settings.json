@@ -1,14 +1,24 @@
 {
     "cSpell.words": [
+        "authgrpc",
+        "authrpc",
         "cleanenv",
         "cmds",
         "extendee",
+        "gofakeit",
+        "grpcapp",
         "Idxs",
         "proto",
         "protobuf",
         "protoc",
         "protoimpl",
         "protoreflect",
-        "ssov"
+        "ssov",
+        "Библиотека",
+        "выполнения",
+        "Драйвер",
+        "миграций",
+        "получения",
+        "файлов"
     ]
 }
